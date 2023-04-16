@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/natha/Pictures/Infnet/kobe-classifier/mlruns/602956712976033465/2fabf6ea29374ae7b14f6db765266bff/artifacts
+end_time: 1681619940718
+entry_point_name: ''
+experiment_id: '602956712976033465'
+lifecycle_stage: active
+run_id: 2fabf6ea29374ae7b14f6db765266bff
+run_name: resilient-robin-784
+run_uuid: 2fabf6ea29374ae7b14f6db765266bff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681619940611
+status: 3
+tags: []
+user_id: natha

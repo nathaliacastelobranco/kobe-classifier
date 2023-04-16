@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/natha/Pictures/Infnet/kobe-classifier/mlruns/376288803712297752/c407fb270be64659b4c95a978aec11b0/artifacts
+end_time: 1681620327653
+entry_point_name: ''
+experiment_id: '376288803712297752'
+lifecycle_stage: active
+run_id: c407fb270be64659b4c95a978aec11b0
+run_name: mercurial-squid-438
+run_uuid: c407fb270be64659b4c95a978aec11b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681620327544
+status: 3
+tags: []
+user_id: natha
