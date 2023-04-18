@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/natha/Pictures/Infnet/kobe-classifier/mlruns/518692328727970136/2e4337679f43474097997f447a925224/artifacts
+deleted_time: 1681777533708
+end_time: 1681775247556
+entry_point_name: ''
+experiment_id: '518692328727970136'
+lifecycle_stage: deleted
+run_id: 2e4337679f43474097997f447a925224
+run_name: Logistic Regression
+run_uuid: 2e4337679f43474097997f447a925224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681775247129
+status: 3
+tags: []
+user_id: natha

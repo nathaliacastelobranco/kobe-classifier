@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/natha/Pictures/Infnet/kobe-classifier/mlruns/518692328727970136/417bd197163e4782ba97716b2448b81f/artifacts
+deleted_time: 1681777533708
+end_time: 1681775247867
+entry_point_name: ''
+experiment_id: '518692328727970136'
+lifecycle_stage: deleted
+run_id: 417bd197163e4782ba97716b2448b81f
+run_name: Session Initialized 8cf4
+run_uuid: 417bd197163e4782ba97716b2448b81f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681775245932
+status: 3
+tags: []
+user_id: natha

@@ -30,7 +30,7 @@ def prepared_data(data):
         metric_column_shape.save(column_shape)
         metric_row_shape.save(line_shape)
 
-    return data, shape
+    return data
 
 def split_data(prepared_data, test_size, seed):
     X = prepared_data.drop('shot_made_flag', axis = 1)
@@ -42,4 +42,10 @@ def split_data(prepared_data, test_size, seed):
                                                         shuffle=True,
                                                         stratify=y)
     
-    return X_train, X_test, y_train, y_test
+    train_data = X_train.copy()
+    train_data['shot_made_flag'] = y_train.copy()
+    
+    test_data = X_test.copy()
+    test_data['shot_made_flag'] = y_test.copy()
+    
+    return X_train, X_test, y_train, y_test, train_data, test_data

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/natha/Pictures/Infnet/kobe-classifier/mlruns/518692328727970136/d7353afc6f294099b8d8431b87f54ef5/artifacts
+deleted_time: 1681777583553
+end_time: 1681774993292
+entry_point_name: ''
+experiment_id: '518692328727970136'
+lifecycle_stage: deleted
+run_id: d7353afc6f294099b8d8431b87f54ef5
+run_name: rebellious-skink-371
+run_uuid: d7353afc6f294099b8d8431b87f54ef5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681774993205
+status: 3
+tags: []
+user_id: natha

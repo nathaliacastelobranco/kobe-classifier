@@ -18,3 +18,4 @@ scikit-learn
 pandas
 kedro-mlflow
 pycaret
+streamlit

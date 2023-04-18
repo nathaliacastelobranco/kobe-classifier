@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/natha/Pictures/Infnet/kobe-classifier/mlruns/518692328727970136/33f957ce2a714599a9aec091ed2ed3e9/artifacts
+deleted_time: 1681777533789
+end_time: 1681774558211
+entry_point_name: ''
+experiment_id: '518692328727970136'
+lifecycle_stage: deleted
+run_id: 33f957ce2a714599a9aec091ed2ed3e9
+run_name: delicate-ant-785
+run_uuid: 33f957ce2a714599a9aec091ed2ed3e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681774558140
+status: 3
+tags: []
+user_id: natha

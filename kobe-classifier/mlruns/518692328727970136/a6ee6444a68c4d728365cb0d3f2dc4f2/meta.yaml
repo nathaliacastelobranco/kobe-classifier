@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/natha/Pictures/Infnet/kobe-classifier/mlruns/518692328727970136/a6ee6444a68c4d728365cb0d3f2dc4f2/artifacts
+deleted_time: 1681774589242
+end_time: 1681773725007
+entry_point_name: ''
+experiment_id: '518692328727970136'
+lifecycle_stage: deleted
+run_id: a6ee6444a68c4d728365cb0d3f2dc4f2
+run_name: indecisive-finch-777
+run_uuid: a6ee6444a68c4d728365cb0d3f2dc4f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681773724908
+status: 3
+tags: []
+user_id: natha

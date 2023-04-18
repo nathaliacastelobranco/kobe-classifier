@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/natha/Pictures/Infnet/kobe-classifier/mlruns/518692328727970136/6a400a36627b495485eb58e6c24ca2ef/artifacts
+end_time: 1681777581398
+entry_point_name: ''
+experiment_id: '518692328727970136'
+lifecycle_stage: active
+run_id: 6a400a36627b495485eb58e6c24ca2ef
+run_name: __default__
+run_uuid: 6a400a36627b495485eb58e6c24ca2ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681777563349
+status: 3
+tags: []
+user_id: natha

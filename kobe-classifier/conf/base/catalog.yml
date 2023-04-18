@@ -9,7 +9,7 @@ raw_data:
 
 prepared_data:
   type: pandas.ParquetDataSet
-  filepath: data/04_feature/data_filtered.parquet
+  filepath: data/03_primary/data_filtered.parquet
 
 shape_2PT:
   type: tracking.MetricsDataSet
@@ -17,16 +17,41 @@ shape_2PT:
 
 X_train:
   type: pandas.ParquetDataSet
-  filepath: data/05_model_input/X_train.parquet
+  filepath: data/04_feature/X_train.parquet
 
 X_test:
   type: pandas.ParquetDataSet
-  filepath: data/05_model_input/X_test.parquet
+  filepath: data/04_feature/X_test.parquet
 
 y_train:
   type: pandas.ParquetDataSet
-  filepath: data/05_model_input/y_train.parquet
+  filepath: data/04_feature/y_train.parquet
 
 y_test:
   type: pandas.ParquetDataSet
-  filepath: data/05_model_input/y_test.parquet
+  filepath: data/04_feature/y_test.parquet
+
+train_data:
+  type: pandas.ParquetDataSet
+  filepath: data/05_model_input/train_data.parquet
+
+test_data:
+  type: pandas.ParquetDataSet
+  filepath: data/05_model_input/test_data.parquet
+
+knn_model:
+  type: kedro_mlflow.io.artifacts.MlflowArtifactDataSet
+  data_set:
+    type: kedro_mlflow.io.models.MlflowModelSaverDataSet
+    flavor: mlflow.sklearn
+    filepath: data/06_models/knn_model
+    # model_name: knn_model
+
+test_lr_log_loss:
+  type: kedro_mlflow.io.metrics.MlflowMetricsDataSet
+
+test_knn_log_loss:
+  type: kedro_mlflow.io.metrics.MlflowMetricsDataSet
+
+test_knn_f1_score:
+  type: kedro_mlflow.io.metrics.MlflowMetricsDataSet

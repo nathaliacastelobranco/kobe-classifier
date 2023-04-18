@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/natha/Pictures/Infnet/kobe-classifier/mlruns/518692328727970136/8d0de6c3e579431e8aab27db787d2e18/artifacts
+deleted_time: 1681777583547
+end_time: 1681774809883
+entry_point_name: ''
+experiment_id: '518692328727970136'
+lifecycle_stage: deleted
+run_id: 8d0de6c3e579431e8aab27db787d2e18
+run_name: worried-jay-633
+run_uuid: 8d0de6c3e579431e8aab27db787d2e18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681774809808
+status: 3
+tags: []
+user_id: natha
