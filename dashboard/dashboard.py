@@ -69,3 +69,6 @@ with st.expander('Características do treino'):
     st.markdown('**Shot-type: 2PT Field Goal**')
     st.write(f'- Tamanho da base de treino: {train_data.shape}')
     st.write(f'- Tamanho da base de teste: {test_data.shape}')
+
+with st.expander('Link para repositório Github'):
+    st.write('https://github.com/nathaliacastelobranco/kobe-classifier')
