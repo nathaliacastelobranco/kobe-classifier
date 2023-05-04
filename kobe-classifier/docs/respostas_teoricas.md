@@ -8,7 +8,7 @@
 
 ### **2. Iremos desenvolver um preditor de arremessos usando duas abordagens (regressão e classificação) para prever se o "Black Mamba" (apelido de Kobe) acertou ou errou a cesta. Para começar o desenvolvimento, desenhe um diagrama que demonstra todas as etapas necessárias em um projeto de inteligência artificial desde a aquisição de dados, passando pela criação dos modelos, indo até a operação do modelo.**
 
-![Diagrama de um projeto de Inteligência Artificial]()
+![Diagrama de um projeto de Inteligência Artificial](https://github.com/nathaliacastelobranco/kobe-classifier/blob/main/kobe-classifier/docs/ProjectCharter_DrawIO_NathaliaCasteloBranco.jpg?raw=true)
 
 ### **3. Descreva a importância de implementar pipelines de desenvolvimento e produção numa solução de aprendizado de máquinas.**
 
